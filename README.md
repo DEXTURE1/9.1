@@ -23,7 +23,7 @@ A production-ready React application demonstrating Docker multi-stage build opti
 
 1. **Smaller Image Size**: Only production files included
 2. **Better Security**: Fewer dependencies = fewer vulnerabilities
-3. **Faster Deployment**: Smaller images deploy quicker
+3. **Faster Deployment**: Smaller images deploy quicker.
 4. **Production Optimized**: Nginx configured for static file serving
 
 
